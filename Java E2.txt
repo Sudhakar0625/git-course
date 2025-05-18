@@ -1,0 +1,14 @@
+1)Abstract Class------full stack
+2)Generic Class-------full stack
+3)Packages-----------full stack
+4)Exceptions-------coding 
+5)Java Multithreading---coding
+6)Polymorphism ----coding
+7)Multiple Inheritance -----coding
+8)Functional Programming: Lambda, Stream----full stack
+9)Java Regular Expression--full stack
+10)Java Database Connectivity back end
+11)Java Collections: ArrayList----full stack
+12)Java Collections: HashSet ---full stack
+13)Java Collections: TreeMap
+14)Java Collections: HashMap--full stack
