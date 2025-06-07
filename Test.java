@@ -12,6 +12,7 @@ import java.util.ArrayList;
  l.add(20); 
  System.out.println("Before Sorting:1"+l); 
  Collections.sort(l,(I1,I2)->(I1<I2)?1:(I1>I2)?-1:0); 
- System.out.println("After Sorting:"+l); 
+ System.out.println("After Sorting:ff"+l); 
  } 
  } 
+
